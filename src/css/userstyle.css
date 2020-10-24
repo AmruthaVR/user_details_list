@@ -1,0 +1,25 @@
+td {
+    padding-left: 2%;
+  }
+
+table {
+    border-collapse: collapse;
+    border: solid 1px;
+    width:50%;
+    margin-top: 5%;
+    margin-left: 15%;
+  }
+
+tr.row {
+    border-bottom: solid white 30px;
+  }
+
+.inputFields {
+  margin-top: 10px;
+  width:80%;
+}
+.addButton {
+  margin-top: 5%;
+  margin-left: 35%;
+  background-color: #3ae2d3;
+}
